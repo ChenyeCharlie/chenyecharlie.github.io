@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ye Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/selfie.jpg"
   bio              : "An Architecture & Computer Science Student"
   location         : "Xi'an, China"
   employer         : 
@@ -43,7 +43,7 @@ author:
   instagram        : ZephyrusChen
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : Ye (Charlie) CHEN # e.g., "linkedin username"
+  linkedin         : Ye CHEN # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        : ChenCharlie
