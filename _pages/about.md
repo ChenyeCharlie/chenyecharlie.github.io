@@ -52,6 +52,7 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 - *2025.11* School Scholarship of XJTU-POLIMI Joint School
 - *2025.10* Outstanding Peer Instructor of Xi'an Jiaotong University
 - *2024.12* National Scholarship
+- *2024.05* National TOP 30 of Taobao University Student Innovation Challenge
 - *2023.12* University Scholarship of Xi'an Jiaotong University
 
 # 📖 Educations
