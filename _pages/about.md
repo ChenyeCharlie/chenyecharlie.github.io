@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I am Chen Ye (陈晔), a fourth-year undergraduate student at [Xi'an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia?E1yQk5al=abR3TGaAqWqkaTbuVyMnYBP10IJ24Vnen3GoWWvxIVJP77ideMP4SY_yxnPFzIY4Jpai2NEI_bccfDZqbCPzTl_Yye5u3RCGICAMUa6P9JCkP4jpTGrP_xA)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy?E1yQk5al=aw_WCEqAqWkek9qkgR9TyOICTG7lTHUsVXDF625T5Pz0wAYyJZmdld150Xck5QMWoeLtxYkxyhcrp7KAjV5emfVCHdxkry956BwRxf3XD3CgW95SCI4Tl8G)).
 
-I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Machine Learning. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications.
+I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Machine Learning. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications. Currently, I have the privilege of serving as an intern at [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html) at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/zh-hans), supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying).
 
 Beside those, I am a keen enthusiast of basketball and swimming. If you would like to connect with me, please feel free to drop me an email or add my [WeChat](../images/wechatqr.jpg).
 
