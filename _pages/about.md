@@ -19,9 +19,9 @@ redirect_from:
 
 # About Me
 
-Hi! I am Chen Ye (陈晔), a fourth-year undergraduate student at [Xi'an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia?E1yQk5al=abR3TGaAqWqkaTbuVyMnYBP10IJ24Vnen3GoWWvxIVJP77ideMP4SY_yxnPFzIY4Jpai2NEI_bccfDZqbCPzTl_Yye5u3RCGICAMUa6P9JCkP4jpTGrP_xA)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy?E1yQk5al=aw_WCEqAqWkek9qkgR9TyOICTG7lTHUsVXDF625T5Pz0wAYyJZmdld150Xck5QMWoeLtxYkxyhcrp7KAjV5emfVCHdxkry956BwRxf3XD3CgW95SCI4Tl8G)).
+Hi! I am Chen Ye (陈晔), a fourth-year undergraduate student at [Xi'an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia/home)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy)).
 
-I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Machine Learning. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications. Currently, I have the privilege of serving as an intern at [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html) at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/zh-hans), supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying).
+I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Machine Learning. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications. Currently, I have the privilege of serving as an intern at [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html) at [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://cuhk.edu.cn/zh-hans), supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying).
 
 Beside those, I am a keen enthusiast of basketball and swimming. If you would like to connect with me, please feel free to drop me an email or add my [WeChat](../images/wechatqr.jpg).
 
@@ -65,4 +65,6 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.07 - 2023.08*, [Beijing Computing Center](https://www.bcc.ac.cn/pc/zh/index.html), Beijing.
+- *2024.07 - 2024.08*, [Beijing Computing Center](https://www.bcc.ac.cn/pc/zh/index.html), Beijing. (ML Intern, supervised by Director Fanyin Meng)
+- *2025.03 - 2025.11*, [LDLab](https://space.bilibili.com/3546828471536346?spm_id_from=333.337.0.0), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), Shenzhen. (Lab Intern, supervised by Prof. [Donghe Li](https://gr.xjtu.edu.cn/en/web/lidonghe2020/home))
+- *2025.07 - present*, [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html), [The Chinese University of Hong Kong (Shenzhen)](https://cuhk.edu.cn/zh-hans), Shenzhen. (Lab Intern, supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying))
