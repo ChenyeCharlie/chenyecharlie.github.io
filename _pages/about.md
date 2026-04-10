@@ -66,5 +66,5 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 
 # 💻 Internships
 - *2024.07 - 2024.08*, [Beijing Computing Center](https://www.bcc.ac.cn/pc/zh/index.html), Beijing. (ML Intern, supervised by Director Fanyin Meng)
-- *2025.03 - 2025.11*, [LDLab](https://space.bilibili.com/3546828471536346?spm_id_from=333.337.0.0), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), Shenzhen. (Lab Intern, supervised by Prof. [Donghe Li](https://gr.xjtu.edu.cn/en/web/lidonghe2020/home))
+- *2025.03 - 2025.11*, [LDLab](https://space.bilibili.com/3546828471536346?spm_id_from=333.337.0.0), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), Xi'an. (Lab Intern, supervised by Prof. [Donghe Li](https://gr.xjtu.edu.cn/en/web/lidonghe2020/home))
 - *2025.07 - present*, [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html), [The Chinese University of Hong Kong (Shenzhen)](https://cuhk.edu.cn/zh-hans), Shenzhen. (Lab Intern, supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying))
