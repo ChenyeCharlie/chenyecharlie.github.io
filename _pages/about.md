@@ -20,7 +20,9 @@ redirect_from:
 
 Hi! I am Ye Chen (陈晔), a fourth-year undergraduate student at [Xi&#39;an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia/home)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy)).
 
-I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Agentic System. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications. Currently, I am experiencing my internship as Machine Learning intern at [OriginArkAI](), supervised by [Wenhui Dong](https://dwenhui.com/). And I am serving as an intern at [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html) at [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://cuhk.edu.cn/zh-hans), supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying).
+I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Agentic System. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications.
+
+Currently, I am experiencing my internship as Machine Learning intern at [OriginArkAI](), supervised by [Wenhui Dong](https://dwenhui.com/). And I am serving as an intern at [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html) at [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://cuhk.edu.cn/zh-hans), supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying).
 
 Beside those, I am a keen enthusiast of basketball and swimming. If you would like to connect with me, please feel free to drop me an email or add my [WeChat](../images/wechatqr.jpg).
 
@@ -29,7 +31,7 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 # 🔥 News
 <!-- - *2026.08*: The work I participated in (Emoupdate) was announced on Arxiv! -->
 - *2026.08*: &nbsp;🎉🎉 The work I participated in (SEPO) was accept by EMNLP(Findings) 2026!
-- *2026.08*: The work I participated in (HNCLIP) was announced on Arxiv!
+- *2026.08*: The work I participated in (HN-Clip) was announced on Arxiv!
 - *2026.07*: The work I participated in (TARA) was announced on Arxiv!
 - *2026.07*: The work I participated in (CMVF) was announced on Arxiv!
 - *2026.04*: &nbsp;🎉🎉 The first work I participated in (POES) was announced on Arxiv!
@@ -39,7 +41,7 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 
 - [SEPO: Evidence-Grounded Prompt Optimization via Structural Editing](), Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoying Tang, **EMNLP(Findings) 2026**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SEPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP(Findings) 2026</div><img src='images/SEPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SEPO: Evidence-Grounded Prompt Optimization via Structural Editing]()
