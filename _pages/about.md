@@ -27,15 +27,69 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+<!-- - *2026.08*: The work I participated in (Emoupdate) was announced on Arxiv! -->
+- *2026.08*: &nbsp;🎉🎉 The work I participated in (SEPO) was accept by EMNLP(Findings) 2026!
+- *2026.08*: The work I participated in (HNCLIP) was announced on Arxiv!
 - *2026.07*: The work I participated in (TARA) was announced on Arxiv!
 - *2026.07*: The work I participated in (CMVF) was announced on Arxiv!
 - *2026.04*: &nbsp;🎉🎉 The first work I participated in (POES) was announced on Arxiv!
 
+
+# 📝 Publications 
+
+- [SEPO: Evidence-Grounded Prompt Optimization via Structural Editing](), Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoying Tang, **EMNLP(Findings) 2026**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SEPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SEPO: Evidence-Grounded Prompt Optimization via Structural Editing]()
+
+Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoying Tang
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- SEPO is a framework replacing opaque whole-prompt rewrites with structured, evidence-grounded local edits that are traceable, more accurate, and substantially more token-efficient.
+</div>
+</div>
+
+
+
 # 📝 Preprints
 
+<!-- - [Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](), Haoyue Liu, Zhichao Wang, **Ye Chen**, Haonan Deng, Xiaoying Tang, **Arxiv** -->
+- [Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval](https://arxiv.org/abs/2608.18521), Haoyue Liu, **Ye Chen**, Zhichao Wang, Xiaoying Tang, **Arxiv**
 - [Are Prompt Optimizers Blind? Cross-Modal Visual Feedback for Automatic Prompt Optimization](https://arxiv.org/abs/2607.24354), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Yuexian Zou, Xiaoying Tang, **Arxiv**
 - [One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization](https://arxiv.org/abs/2607.18724), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Shuguang Cui, Xiaoying Tang, **Arxiv**
 - [Select Smarter, Not More: Prompt-Aware Evaluation Scheduling with Submodular Guarantees](https://arxiv.org/abs/2604.11328), Xiaoyu Ma, Yiwen Li, Haoyue Liu, Zhichao Wang, **Ye Chen**, Yongxin Guo, Xiaoying Tang, **Arxiv**
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Emoupdate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding]()
+
+H Liu, Z Wang, **Y Chen**, H Deng, X Tang*
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Emoupdate is a training-free framework that separates current-audio perception from historical state revision through three components: prior-blind acoustic firewall, evidence-shrunk causal belief filter and decontamination operator.
+</div>
+</div> -->
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/HNClip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval](https://arxiv.org/pdf/2608.18521)
+
+H Liu, **Y Chen**, Z Wang, X Tang*
+
+[**Project**](https://arxiv.org/pdf/2608.18521) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- HN-CLIP is a method that uses the text encoder's own text-text geometry to construct per-negative adaptive similarity margins.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CMVF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,6 +103,8 @@ H Liu, X Ma, **Y Chen**, Y Zou, X Tang*
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/TARA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,6 +116,8 @@ H Liu, X Ma, **Y Chen**, S Cui, X Tang*
 - A training-free framework that diagnoses different text-to-image generation failures, routes each to a type-specific repair, and compiles them into a single optimized prompt to improve semantic fidelity with only one additional regeneration.
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/POES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,21 +132,6 @@ X Ma, Y Li, H Liu, Z Wang, **Y Chen**, Y Guo, X Tang*
 </div>
 
 
-<!-- # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 
