@@ -29,7 +29,7 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-<!-- - *2026.08*: The work I participated in (Emoupdate) was announced on Arxiv! -->
+- *2026.08*: The work I participated in (Emoupdate) was announced on Arxiv!
 - *2026.08*: &nbsp;🎉🎉 The work I participated in (SEPO) was accept by EMNLP(Findings) 2026!
 - *2026.08*: The work I participated in (HN-Clip) was announced on Arxiv!
 - *2026.07*: The work I participated in (TARA) was announced on Arxiv!
@@ -57,7 +57,7 @@ Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoyi
 
 # 📝 Preprints
 
-<!-- - [Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](), Haoyue Liu, Zhichao Wang, **Ye Chen**, Haonan Deng, Xiaoying Tang, **Arxiv** -->
+- [Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](https://arxiv.org/abs/2608.20769), Haoyue Liu, Zhichao Wang, **Ye Chen**, Haonan Deng, Xiaoying Tang, **Arxiv**
 - [Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval](https://arxiv.org/abs/2608.18521), Haoyue Liu, **Ye Chen**, Zhichao Wang, Xiaoying Tang, **Arxiv**
 - [Are Prompt Optimizers Blind? Cross-Modal Visual Feedback for Automatic Prompt Optimization](https://arxiv.org/abs/2607.24354), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Yuexian Zou, Xiaoying Tang, **Arxiv**
 - [One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization](https://arxiv.org/abs/2607.18724), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Shuguang Cui, Xiaoying Tang, **Arxiv**
@@ -65,17 +65,17 @@ Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoyi
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Emoupdate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Emoupdate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding]()
+[Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](https://arxiv.org/pdf/2608.20769)
 
 H Liu, Z Wang, **Y Chen**, H Deng, X Tang*
 
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://arxiv.org/pdf/2608.20769) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Emoupdate is a training-free framework that separates current-audio perception from historical state revision through three components: prior-blind acoustic firewall, evidence-shrunk causal belief filter and decontamination operator.
 </div>
-</div> -->
+</div>
 
 
 
