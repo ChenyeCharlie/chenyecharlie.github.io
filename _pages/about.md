@@ -29,8 +29,10 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 The work I participated in (POES) was accept by NeurIPS 2026! Find it in [Arxiv](https://arxiv.org/abs/2604.11328)!
+- *2026.09*: The work I participated in (FGPO) was announced on Arxiv!
 - *2026.08*: The work I participated in (Emoupdate) was announced on Arxiv!
-- *2026.08*: &nbsp;🎉🎉 The work I participated in (SEPO) was accept by EMNLP(Findings) 2026!
+- *2026.08*: &nbsp;🎉🎉 The work I participated in (SEPO) was accept by EMNLP 2026 Findings! Find it in [Arxiv](https://arxiv.org/abs/2608.28067)!
 - *2026.08*: The work I participated in (HN-Clip) was announced on Arxiv!
 - *2026.07*: The work I participated in (TARA) was announced on Arxiv!
 - *2026.07*: The work I participated in (CMVF) was announced on Arxiv!
@@ -63,7 +65,7 @@ X Ma, Y Li, H Liu, Z Wang, **Y Chen**, Y Guo, X Tang*
 
 [SEPO: Evidence-Grounded Prompt Optimization via Structural Editing](https://arxiv.org/pdf/2608.28067)
 
-Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoying Tang
+X Ma, H Liu, Y li, J Zhu, Z Wang, **Y Chen**, X Tang*
 
 [**Project**](https://arxiv.org/pdf/2608.28067) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - SEPO is a framework replacing opaque whole-prompt rewrites with structured, evidence-grounded local edits that are traceable, more accurate, and substantially more token-efficient.
