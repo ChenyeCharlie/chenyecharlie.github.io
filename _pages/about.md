@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-Hi! I am Ye Chen (陈晔), a fourth-year undergraduate student at [Xi&#39;an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia/home)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy)).
+Hi! I am Ye Chen (陈晔), a fifth-year undergraduate student at [Xi&#39;an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia/home)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy)).
 
 I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Agentic System. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications.
 
@@ -39,16 +39,33 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 
 # 📝 Publications 
 
-- [SEPO: Evidence-Grounded Prompt Optimization via Structural Editing](), Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoying Tang, **EMNLP(Findings) 2026**
+- [Select Smarter, Not More: Prompt-Aware Evaluation Scheduling with Submodular Guarantees](https://arxiv.org/abs/2604.11328), Xiaoyu Ma, Yiwen Li, Haoyue Liu, Zhichao Wang, **Ye Chen**, Yongxin Guo, Xiaoying Tang, **NeurIPS 2026**
+- [SEPO: Evidence-Grounded Prompt Optimization via Structural Editing](https://arxiv.org/abs/2608.28067), Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoying Tang, **EMNLP 2026 Findings**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP(Findings) 2026</div><img src='images/SEPO.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/POES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SEPO: Evidence-Grounded Prompt Optimization via Structural Editing]()
+[Select Smarter, Not More: Prompt-Aware Evaluation Scheduling with Submodular Guarantees](https://arxiv.org/pdf/2604.11328)
+
+X Ma, Y Li, H Liu, Z Wang, **Y Chen**, Y Guo, X Tang*
+
+[**Project**](https://arxiv.org/pdf/2604.11328) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A framework that treats APO as an online adaptive testing problem to dynamically select the most informative evaluation subsets for higher accuracy and less computational costs. 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/SEPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SEPO: Evidence-Grounded Prompt Optimization via Structural Editing](https://arxiv.org/pdf/2608.28067)
 
 Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoying Tang
 
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://arxiv.org/pdf/2608.28067) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - SEPO is a framework replacing opaque whole-prompt rewrites with structured, evidence-grounded local edits that are traceable, more accurate, and substantially more token-efficient.
 </div>
 </div>
@@ -57,11 +74,44 @@ Xiaoyu Ma, Haoyue Liu, Yiwen li, Jionghao Zhu, Zhichao Wang, **Ye Chen**, Xiaoyi
 
 # 📝 Preprints
 
+<!-- - [OMNICE: BENCHMARKING OMNI-MODAL MODELS WITH CRITICAL EVIDENCE REASONING UNDER NAT-URAL INTERFERENCE](), Jiezhi Yao, Wenhui Dong, Chenglong Pan, Fudong Yuan, Renxiang Wang, Yuwen Qu, Ming Zhao, Hao Chen, **Ye Chen**, Camil Hamami, Chenbo Xia, Xinquan Yue, Ziyu Wang, Fengyu Ye, Chenyang Si, Caifeng Shan, **Arxiv**
+- [CoSec: Benchmarking Agent Security in Communities](), Hao Chen, Wenhui Dong, ****Ye Chen**, Jiezhi Yao, Chenbo Xia, Yuwen Qu, Renxiang Wang, Fudong Yuan, Camil Hamami, Chenglong Pan, Xinquan Yue, Ziyu Wang, Fengyu Ye, Chenyang Si, Caifeng Shan, **Arxiv**
+- [Which Constraints Are Missing? Ask the Verifier: Graded Rewards for Multi-Constraint Music Generation](), Haoyue Liu, **Ye Chen**, Zhichao Wang, Xiaoyu Ma, Haoran Shou, Xiaoying Tang, **Arxiv** -->
+- [Why Sample What You Can Enumerate? Exact Policy Optimization for Genomic Tool Selection](https://arxiv.org/abs/2609.10221), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Zhichao Wang, Xiaoying Tang, **Arxiv**
 - [Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](https://arxiv.org/abs/2608.20769), Haoyue Liu, Zhichao Wang, **Ye Chen**, Haonan Deng, Xiaoying Tang, **Arxiv**
 - [Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval](https://arxiv.org/abs/2608.18521), Haoyue Liu, **Ye Chen**, Zhichao Wang, Xiaoying Tang, **Arxiv**
 - [Are Prompt Optimizers Blind? Cross-Modal Visual Feedback for Automatic Prompt Optimization](https://arxiv.org/abs/2607.24354), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Yuexian Zou, Xiaoying Tang, **Arxiv**
 - [One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization](https://arxiv.org/abs/2607.18724), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Shuguang Cui, Xiaoying Tang, **Arxiv**
-- [Select Smarter, Not More: Prompt-Aware Evaluation Scheduling with Submodular Guarantees](https://arxiv.org/abs/2604.11328), Xiaoyu Ma, Yiwen Li, Haoyue Liu, Zhichao Wang, **Ye Chen**, Yongxin Guo, Xiaoying Tang, **Arxiv**
+
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Which Constraints Are Missing? Ask the Verifier: Graded Rewards for Multi-Constraint Music Generation]()
+
+H Liu, **Y Chen**, Z Wang, X Ma, H Shou, X Tang*
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- MusicRLVR is a verifier-driven reinforcement learning framework that combines a hard validation gate, graded per-property credit, and a joint-satisfaction bonus, requiring no human annotation, learned reward model, or music-domain SFT.
+</div>
+</div> -->
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Why Sample What You Can Enumerate? Exact Policy Optimization for Genomic Tool Selection](https://arxiv.org/pdf/2609.10221)
+
+H Liu, X Ma, **Y Chen**, Z Wang, X Tang*
+
+[**Project**](https://arxiv.org/pdf/2609.10221) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- FGPO is a method which scores every tool subset and optimizes the exact action expectation, and precomputes the reward of each question–subset pair into an exhaustive table,
+removing reasoner calls from training.
+</div>
+</div>
 
 
 
@@ -116,20 +166,6 @@ H Liu, X Ma, **Y Chen**, S Cui, X Tang*
 
 [**Project**](https://arxiv.org/pdf/2607.18724) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A training-free framework that diagnoses different text-to-image generation failures, routes each to a type-specific repair, and compiles them into a single optimized prompt to improve semantic fidelity with only one additional regeneration.
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/POES.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Select Smarter, Not More: Prompt-Aware Evaluation Scheduling with Submodular Guarantees](https://arxiv.org/pdf/2604.11328)
-
-X Ma, Y Li, H Liu, Z Wang, **Y Chen**, Y Guo, X Tang*
-
-[**Project**](https://arxiv.org/pdf/2604.11328) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A framework that treats APO as an online adaptive testing problem to dynamically select the most informative evaluation subsets for higher accuracy and less computational costs. 
 </div>
 </div>
 
