@@ -88,7 +88,7 @@ X Ma, H Liu, Y li, J Zhu, Z Wang, **Y Chen**, X Tang*
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which Constraints Are Missing? Ask the Verifier: Graded Rewards for Multi-Constraint Music Generation]()
@@ -102,7 +102,7 @@ H Liu, **Y Chen**, Z Wang, X Ma, H Shou, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CoSec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/CoSec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoSec: Benchmarking Agent Security in Communities](https://arxiv.org/pdf/2609.34790)
@@ -116,7 +116,7 @@ H Chen, W Dong*, **Y Chen**, J Yao, C Xia, Y Qu, R Wang, F Yuan, C Hamami, C Pan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Why Sample What You Can Enumerate? Exact Policy Optimization for Genomic Tool Selection](https://arxiv.org/pdf/2609.10221)
@@ -131,7 +131,7 @@ removing reasoner calls from training.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Emoupdate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/Emoupdate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](https://arxiv.org/pdf/2608.20769)
@@ -145,7 +145,7 @@ H Liu, Z Wang, **Y Chen**, H Deng, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/HNClip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/HNClip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval](https://arxiv.org/pdf/2608.18521)
@@ -159,7 +159,7 @@ H Liu, **Y Chen**, Z Wang, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CMVF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/CMVF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are Prompt Optimizers Blind? Cross-Modal Visual Feedback for Automatic Prompt Optimization](https://arxiv.org/pdf/2607.24354)
@@ -173,7 +173,7 @@ H Liu, X Ma, **Y Chen**, Y Zou, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/TARA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/TARA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization](https://arxiv.org/pdf/2607.18724)
