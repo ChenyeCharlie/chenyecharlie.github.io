@@ -77,8 +77,8 @@ X Ma, H Liu, Y li, J Zhu, Z Wang, **Y Chen**, X Tang*
 # 📝 Preprints
 
 <!-- - [OMNICE: BENCHMARKING OMNI-MODAL MODELS WITH CRITICAL EVIDENCE REASONING UNDER NAT-URAL INTERFERENCE](), Jiezhi Yao, Wenhui Dong, Chenglong Pan, Fudong Yuan, Renxiang Wang, Yuwen Qu, Ming Zhao, Hao Chen, **Ye Chen**, Camil Hamami, Chenbo Xia, Xinquan Yue, Ziyu Wang, Fengyu Ye, Chenyang Si, Caifeng Shan, **Arxiv**
-- [CoSec: Benchmarking Agent Security in Communities](), Hao Chen, Wenhui Dong, ****Ye Chen**, Jiezhi Yao, Chenbo Xia, Yuwen Qu, Renxiang Wang, Fudong Yuan, Camil Hamami, Chenglong Pan, Xinquan Yue, Ziyu Wang, Fengyu Ye, Chenyang Si, Caifeng Shan, **Arxiv**
 - [Which Constraints Are Missing? Ask the Verifier: Graded Rewards for Multi-Constraint Music Generation](), Haoyue Liu, **Ye Chen**, Zhichao Wang, Xiaoyu Ma, Haoran Shou, Xiaoying Tang, **Arxiv** -->
+- [CoSec: Benchmarking Agent Security in Communities](https://arxiv.org/abs/2609.34790), Hao Chen, Wenhui Dong, **Ye Chen**, Jiezhi Yao, Chenbo Xia, Yuwen Qu, Renxiang Wang, Fudong Yuan, Camil Hamami, Chenglong Pan, Xinquan Yue, Ziyu Wang, Fengyu Ye, Chenyang Si, Caifeng Shan, **Arxiv**
 - [Why Sample What You Can Enumerate? Exact Policy Optimization for Genomic Tool Selection](https://arxiv.org/abs/2609.10221), Haoyue Liu, Xiaoyu Ma, **Ye Chen**, Zhichao Wang, Xiaoying Tang, **Arxiv**
 - [Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](https://arxiv.org/abs/2608.20769), Haoyue Liu, Zhichao Wang, **Ye Chen**, Haonan Deng, Xiaoying Tang, **Arxiv**
 - [Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval](https://arxiv.org/abs/2608.18521), Haoyue Liu, **Ye Chen**, Zhichao Wang, Xiaoying Tang, **Arxiv**
@@ -99,6 +99,20 @@ H Liu, **Y Chen**, Z Wang, X Ma, H Shou, X Tang*
 - MusicRLVR is a verifier-driven reinforcement learning framework that combines a hard validation gate, graded per-property credit, and a joint-satisfaction bonus, requiring no human annotation, learned reward model, or music-domain SFT.
 </div>
 </div> -->
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CoSec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoSec: Benchmarking Agent Security in Communities](https://arxiv.org/pdf/2609.34790)
+
+H Chen, W Dong*, **Y Chen**, J Yao, C Xia, Y Qu, R Wang, F Yuan, C Hamami, C Pan, X Yue, Z Wang, F Ye, C Si, C Shan*
+
+[**Project**](https://github.com/chenahong/Bi-Erasing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- CoSec is an executable benchmark for evaluating privacy and authorization enforcement in LLM agent systems operating within and across communities.
+</div>
+</div>
 
 
 
