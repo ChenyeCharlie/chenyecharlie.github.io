@@ -18,17 +18,20 @@ redirect_from:
 
 # About Me
 
-Hi! I am Ye Chen (陈晔), a fifth-year undergraduate student at [Xi&#39;an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia/home)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy)).
+Hi! I am Ye Chen (陈晔), a senior undergraduate student at [Xi&#39;an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/) and [Politecnico di Milano (POLIMI)](https://www.polimi.it/). Currently, I am pursuing a triple Bachelor degree, including a B.Eng in Computer Science and Technology at XJTU (supervised by Prof. [Qin Xia](https://gr.xjtu.edu.cn/en/web/qin.xia/home)) and a Dual B.Arch in Architecture at XJTU and POLIMI (supervised by Prof. [Shanyao Zhu](https://gr.xjtu.edu.cn/en/web/way.zsy)).
 
-I am a research beginner, full of passion and self-motivated. My research interest includes Multimodal LLM and Agentic System. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications.
+It is a great honor that I will join the [State Key Laboratory of Blockchain and Data Security](https://bcds.zju.edu.cn/) in the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/) and the [School of Cyber Science and Technology](https://icsr.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/) in 2027-Fall to pursue a Ph.D. in Cyber Science and Technology (supervised by Prof. [Kui Ren](https://person.zju.edu.cn/kuiren) and Prof. [Zhan Qin](https://person.zju.edu.cn/qinzhan)).
 
-Currently, I am experiencing my internship as Machine Learning intern at [OriginArkAI](), supervised by [Wenhui Dong](https://dwenhui.com/). And I am serving as an intern at [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html) at [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://cuhk.edu.cn/zh-hans), supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying).
+I am a research beginner, full of passion and self-motivated. My research interest includes Trustworthy AI, Multimodal LLM, and Agentic System. In addition, I possess a strong curiosity regarding cutting-edge research topics and interdisciplinary applications.
 
-Beside those, I am a keen enthusiast of basketball and swimming. If you would like to connect with me, please feel free to drop me an email or add my [WeChat](../images/wechatqr.jpg).
+Currently, I am experiencing my internship as Machine Learning Engineer at [OriginArkAI](), supervised by [Wenhui Dong](https://dwenhui.com/).
+
+Beside those, I am a keen enthusiast of basketball and swimming. If you would like to connect with me, please feel free to drop me an email or add my [WeChat](../images/profile/wechatqr.jpg).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2026.09*: The work I participated in (CoSec) was announced on Arxiv!
 - *2026.09*: &nbsp;🎉🎉 The work I participated in (POES) was accept by NeurIPS 2026! Find it in [Arxiv](https://arxiv.org/abs/2604.11328)!
 - *2026.09*: The work I participated in (FGPO) was announced on Arxiv!
 - *2026.08*: The work I participated in (Emoupdate) was announced on Arxiv!
@@ -46,7 +49,7 @@ Beside those, I am a keen enthusiast of basketball and swimming. If you would li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/POES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/POES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Select Smarter, Not More: Prompt-Aware Evaluation Scheduling with Submodular Guarantees](https://arxiv.org/pdf/2604.11328)
@@ -60,7 +63,7 @@ X Ma, Y Li, H Liu, Z Wang, **Y Chen**, Y Guo, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/SEPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/papers/SEPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SEPO: Evidence-Grounded Prompt Optimization via Structural Editing](https://arxiv.org/pdf/2608.28067)
@@ -88,7 +91,7 @@ X Ma, H Liu, Y li, J Zhu, Z Wang, **Y Chen**, X Tang*
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/papers/FGPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which Constraints Are Missing? Ask the Verifier: Graded Rewards for Multi-Constraint Music Generation]()
@@ -102,7 +105,7 @@ H Liu, **Y Chen**, Z Wang, X Ma, H Shou, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/CoSec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/papers/CoSec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoSec: Benchmarking Agent Security in Communities](https://arxiv.org/pdf/2609.34790)
@@ -116,7 +119,7 @@ H Chen, W Dong*, **Y Chen**, J Yao, C Xia, Y Qu, R Wang, F Yuan, C Hamami, C Pan
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/FGPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/papers/FGPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Why Sample What You Can Enumerate? Exact Policy Optimization for Genomic Tool Selection](https://arxiv.org/pdf/2609.10221)
@@ -131,7 +134,7 @@ removing reasoner calls from training.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/Emoupdate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/papers/Emoupdate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding](https://arxiv.org/pdf/2608.20769)
@@ -145,7 +148,7 @@ H Liu, Z Wang, **Y Chen**, H Deng, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/HNClip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/papers/HNClip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which Negatives Matter? Ask Your Text Encoder: Adaptive Similarity Margins for Dense-Caption Retrieval](https://arxiv.org/pdf/2608.18521)
@@ -159,7 +162,7 @@ H Liu, **Y Chen**, Z Wang, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/CMVF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/papers/CMVF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are Prompt Optimizers Blind? Cross-Modal Visual Feedback for Automatic Prompt Optimization](https://arxiv.org/pdf/2607.24354)
@@ -173,7 +176,7 @@ H Liu, X Ma, **Y Chen**, Y Zou, X Tang*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/TARA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-arxiv">Arxiv</div><img src='images/papers/TARA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization](https://arxiv.org/pdf/2607.18724)
@@ -198,6 +201,7 @@ H Liu, X Ma, **Y Chen**, S Cui, X Tang*
 
 # 📖 Educations
 
+- *2027.09 - 2032.06 (Expeted)*, Graduate, Ph.D. in Cyber Science and Technology, Zhejiang University.
 - *2024.03 - 2027.06 (Expeted)*, Undergraduate, B.Eng in Computer Science and Technology, Xi'an Jiaotong University.
 - *2022.09 - 2027.06 (Expeted)*, Undergraduate, B.Arch in Architecture, Politecnico di Milano.
 - *2022.09 - 2027.06 (Expeted)*, Undergraduate, B.Arch in Architecture, Xi'an Jiaotong University.
@@ -210,7 +214,7 @@ H Liu, X Ma, **Y Chen**, S Cui, X Tang*
 # 💻 Internships
 
 - *2026.06 - present*, [OriginArkAI](), Hangzhou. (Machine Learning Intern, supervised by [Wenhui Dong](https://dwenhui.com/))
-- *2025.07 - present*, [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html), [The Chinese University of Hong Kong (Shenzhen)](https://cuhk.edu.cn/zh-hans), Shenzhen. (Lab Intern, supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying))
+- *2025.07 - 2026.09*, [T-Lab](https://xiaoyingtang-cuhk.github.io/zh/index.html), [The Chinese University of Hong Kong (Shenzhen)](https://cuhk.edu.cn/zh-hans), Shenzhen. (Lab Intern, supervised by Prof. [Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying))
 - *2026.05 - 2025.06*, [Z-Data Team](https://www.zhipuai.cn/zh), [ZhipuAI](https://www.zhipuai.cn/zh), Beijing. (AI Data Intern, Remote)
 - *2025.03 - 2025.11*, [LDLab](https://space.bilibili.com/3546828471536346?spm_id_from=333.337.0.0), [Xi&#39;an Jiaotong University](https://www.xjtu.edu.cn/), Xi'an. (Lab Intern, supervised by Prof. [Donghe Li](https://gr.xjtu.edu.cn/en/web/lidonghe2020/home))
-- *2024.07 - 2024.08*, [Beijing Computing Center](https://www.bcc.ac.cn/pc/zh/index.html), Beijing. (ML Intern, supervised by Fanyin Meng)
+- *2024.07 - 2024.08*, [Beijing Computing Center](https://www.bcc.ac.cn/pc/zh/index.html), Beijing. (ML Intern, supervised by [Fanyin Meng]())

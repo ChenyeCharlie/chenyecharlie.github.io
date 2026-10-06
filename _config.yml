@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ye Chen"
-  avatar           : "./images/selfie.jpg"
+  avatar           : "./images/profile/selfie.jpg"
   bio              : "An Architecture & Computer Science Student"
   location         : "Xi'an, China"
   employer         : 
